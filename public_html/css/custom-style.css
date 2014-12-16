@@ -1,0 +1,31 @@
+div {
+    border-style: ridge;
+    border-width: 5px;
+    border-color: grey;
+}
+
+.container {
+    border-color: blue;
+}
+
+.row {
+    border-color: transparent;
+}
+
+nav {
+   color: chartreuse; 
+}
+
+#body1 {
+    background-image: url("http://warthunder.com/upload/image/media/wallpapers/t34-85_atack_1920x1080_logo.jpg"); 
+}
+
+#head1 {
+    color: red;
+    background-color: black;
+}
+
+.jumbotron{
+    height: 100%;
+    width: 100%;
+}
